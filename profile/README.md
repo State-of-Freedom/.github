@@ -2,6 +2,7 @@
 
 <img width="1920" height="722" alt="Frame 6992" src="https://github.com/user-attachments/assets/75ab6a2a-b4a0-4bf1-88b4-d1719c078f66" />
 
+---
 
 **State of Freedom Roleplay** é um servidor de **Roleplay para Multi Theft Auto: San Andreas (MTA:SA)** que busca quebrar o padrão de servidores da plataforma, propondo uma sociedade com um estado americano fictício dinâmico e profundo.
 
