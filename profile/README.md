@@ -1,12 +1,10 @@
-## Hi there 👋
+# State of Freedom Roleplay
 
-<!--
+<img width="1920" height="722" alt="Frame 6992" src="https://github.com/user-attachments/assets/75ab6a2a-b4a0-4bf1-88b4-d1719c078f66" />
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**State of Freedom Roleplay** é um servidor de **Roleplay para Multi Theft Auto: San Andreas (MTA:SA)** que busca quebrar o padrão de servidores da plataforma, propondo uma sociedade com um estado americano fictício dinâmico e profundo.
+
+---
+
+O servidor oferece um universo vivo, onde **cada produto, empresa ou organização ilegal impacta diretamente o mundo ao redor**. Não se trata apenas de jogar, trata-se de viver uma experiência de **imersão séria**, em que cada decisão tomada representa consequências reais no ambiente de jogo 
